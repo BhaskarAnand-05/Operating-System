@@ -1,0 +1,11 @@
+Ramez Elmasri would like to thank Kulsawasd Jitkajornwanich, Vivek Sharma, and
+Surya Swaminathan for their help with preparing some of the material in Chapter
+24. Sham Navathe would like to acknowledge the following individuals who
+helped in critically reviewing and revising various topics. Dan Forsythe and Satish
+Damle for discussion of storage systems; Rafi Ahmed for detailed re-organization
+of the material on query processing and optimization; Harish Butani, Balaji
+Palanisamy, and Prajakta Kalmegh for their help with the Hadoop and MapReduce
+technology material; Vic Ghorpadey and Nenad Jukic for revision of the Data
+Warehousing material; and finally, Frank Rietta for newer techniques in database
+security, Kunal Malhotra for various discussions, and Saurav Sahay for advances in
+information retrieval systems..
